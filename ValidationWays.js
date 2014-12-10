@@ -11,7 +11,6 @@
  * Date: 2014-11-27 18:30:16 -0500
  * 
  */
-<script type="text/javascript">
 
 jQuery.fn.jquery_validation  = function(component, classname)
 {
@@ -85,4 +84,3 @@ jQuery.fn.jquery_validation  = function(component, classname)
     return error_flag;   
 };
 
-</script>
